@@ -41,7 +41,7 @@ p {
 }
 
 .submit-color {
-  background-color: #de660d;
+  background-color: #17a2b8; /* section7 問題1で変更 */
   color: white;
   opacity: 0.9;
   transition: all 0.4s;
